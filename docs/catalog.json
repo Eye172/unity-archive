@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "2022-2023-first-person-study",
+    "folder": "TEST_1",
+    "title": "First-person study",
+    "period": "2022–2023 · revisited in 2024",
+    "context": "Kodland Unity / Unity Pro learning archive",
+    "sourceFiles": 10,
+    "runtime": "Editor Play Mode opened; capture scope and limitations documented in BUILD-STATUS.md",
+    "media": []
+  },
+  {
+    "slug": "2023-physics-playground",
+    "folder": "FIZIKA_1",
+    "title": "Physics playground",
+    "period": "March–May 2023",
+    "context": "Kodland Unity / Unity Pro learning archive",
+    "sourceFiles": 11,
+    "runtime": "Editor Play Mode opened; capture scope and limitations documented in BUILD-STATUS.md",
+    "media": [
+      "01-course.jpg"
+    ]
+  },
+  {
+    "slug": "2023-2024-city-sandbox",
+    "folder": "Project_2",
+    "title": "City sandbox",
+    "period": "August 2023–April 2024",
+    "context": "Kodland Unity / Unity Pro learning archive",
+    "sourceFiles": 27,
+    "runtime": "Editor Play Mode opened; capture scope and limitations documented in BUILD-STATUS.md",
+    "media": [
+      "01-town.jpg",
+      "02-drift-track.jpg",
+      "demo.mp4"
+    ]
+  },
+  {
+    "slug": "2024-cursed-prince",
+    "folder": "Cursed_Prince_Version_N1",
+    "title": "Cursed Prince",
+    "period": "February 2024",
+    "context": "Kodland Unity / Unity Pro learning archive",
+    "sourceFiles": 8,
+    "runtime": "Editor Play Mode opened; capture scope and limitations documented in BUILD-STATUS.md",
+    "media": [
+      "01-forest.jpg"
+    ]
+  },
+  {
+    "slug": "2024-2025-rise",
+    "folder": "Rise_Version_N1",
+    "title": "Rise",
+    "period": "June 2024–June 2025",
+    "context": "Solo mobile-game project · unreleased",
+    "sourceFiles": 25,
+    "runtime": "Editor Play Mode opened; capture scope and limitations documented in BUILD-STATUS.md",
+    "media": [
+      "01-home.jpg",
+      "03-skins.jpg",
+      "04-trails.jpg",
+      "05-store.jpg",
+      "06-level-start.jpg",
+      "demo.mp4"
+    ]
+  },
+  {
+    "slug": "2025-kenney-jam-power",
+    "folder": "SomeGame",
+    "title": "POWER — Kenney Jam prototype",
+    "period": "July 2025",
+    "context": "Built for Kenney Jam 2025 · not submitted",
+    "sourceFiles": 12,
+    "runtime": "Editor Play Mode opened; capture scope and limitations documented in BUILD-STATUS.md",
+    "media": [
+      "01-factory-light.jpg",
+      "02-factory-dark.jpg",
+      "03-puzzle-board.jpg",
+      "04-energy-flow.jpg",
+      "05-connected-pipes.jpg",
+      "puzzle-demo.mp4"
+    ]
+  },
+  {
+    "slug": "2025-directional-movement",
+    "folder": "SwordFightGame_N1",
+    "title": "Directional movement study",
+    "period": "August 2025",
+    "context": "Unity learning prototype",
+    "sourceFiles": 3,
+    "runtime": "Editor Play Mode opened; capture scope and limitations documented in BUILD-STATUS.md",
+    "media": [
+      "01-movement.jpg",
+      "demo.mp4"
+    ]
+  }
+]

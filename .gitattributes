@@ -1,0 +1,10 @@
+* text=auto
+*.cs -text
+*.unity -text
+*.meta -text
+*.asset -text
+*.json -text
+*.png binary
+*.jpg binary
+*.mp4 binary
+*.gif binary

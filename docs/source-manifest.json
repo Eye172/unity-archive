@@ -1,0 +1,2266 @@
+[
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scenes/StartMenu.unity",
+    "originalPath": "Assets/Scenes/StartMenu.unity",
+    "modifiedLocal": "2023-01-08T19:10:02.887174",
+    "sha256": "034c719c6aefe66b8f0cc1d962bcae0777a6ffac0dd9a1e386c7d41e66d16390",
+    "bytes": 39167
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scenes/StartMenu.unity.meta",
+    "originalPath": "Assets/Scenes/StartMenu.unity.meta",
+    "modifiedLocal": "2022-12-25T19:22:49.704941",
+    "sha256": "0fb8c63d1990dbae6345d486fa6143fa68e7304849a62ee2ec2c761c1a981814",
+    "bytes": 155
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scenes/TESTGame.unity",
+    "originalPath": "Assets/Scenes/TESTGame.unity",
+    "modifiedLocal": "2023-03-05T19:38:01.037458",
+    "sha256": "32cc830942fc2ddcf4beedc604f593f56954ae08f1a2b93447b58cb5b1905d4f",
+    "bytes": 2026052
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scenes/TESTGame.unity.meta",
+    "originalPath": "Assets/Scenes/TESTGame.unity.meta",
+    "modifiedLocal": "2022-05-26T23:47:49",
+    "sha256": "aceab14f038dbd3a1778159772cd9e89d7d8188f9158f06c204a8912438d8c96",
+    "bytes": 155
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/Bullet.cs",
+    "originalPath": "Assets/Scripts/Bullet.cs",
+    "modifiedLocal": "2023-02-26T19:02:00.531789",
+    "sha256": "d16ee9095be4d545511d89e1ba785c62a702e0a5f9f5ee3d946473d96d2dc34b",
+    "bytes": 729
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/Bullet.cs.meta",
+    "originalPath": "Assets/Scripts/Bullet.cs.meta",
+    "modifiedLocal": "2023-01-22T18:38:23.943281",
+    "sha256": "57d5acd2190f103d3ef2c6719f6599506742acf767f8ebcffe458a255d72c0b0",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/Enemy.cs",
+    "originalPath": "Assets/Scripts/Enemy.cs",
+    "modifiedLocal": "2024-02-21T13:31:45.160645",
+    "sha256": "1231fb8154e582a79bda971385861da60eacfc70a4f09d88f782e72ffe677838",
+    "bytes": 691
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/Enemy.cs.meta",
+    "originalPath": "Assets/Scripts/Enemy.cs.meta",
+    "modifiedLocal": "2023-02-26T18:39:58.055252",
+    "sha256": "79b41e05036144eb01b5434ecf874d0467364be3e8808506dc75e8a7ec6f27f2",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/MenuNewGameButton.cs",
+    "originalPath": "Assets/Scripts/MenuNewGameButton.cs",
+    "modifiedLocal": "2023-01-08T19:01:20.152961",
+    "sha256": "d6d2af011dc6f903aebd224ab3a1fa66f8f3a212c4bb1de5067b78576478b4fb",
+    "bytes": 400
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/MenuNewGameButton.cs.meta",
+    "originalPath": "Assets/Scripts/MenuNewGameButton.cs.meta",
+    "modifiedLocal": "2023-01-08T18:46:07.560347",
+    "sha256": "8f60b1effaaca45e4d8a50779b17cf31356d7c5e621f626b16a781c96fc5a224",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/PlayerController.cs",
+    "originalPath": "Assets/Scripts/PlayerController.cs",
+    "modifiedLocal": "2023-02-26T19:18:18.915092",
+    "sha256": "f3b2f1b4ee54b9257471f697d6a40a045109d0fc0b9a3779f811e9d330988961",
+    "bytes": 941
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/PlayerController.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerController.cs.meta",
+    "modifiedLocal": "2023-01-22T18:49:45.742522",
+    "sha256": "61a996a20bf34f74e214a08d191f1e12c546a770333ef9904d2a2009eda368e6",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/PlayerLook.cs",
+    "originalPath": "Assets/Scripts/PlayerLook.cs",
+    "modifiedLocal": "2022-12-18T18:39:55.025653",
+    "sha256": "bb85809dcc7695361f985cc5b3ca2987294d3190e822e6a38ee5a598a893cd81",
+    "bytes": 530
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/PlayerLook.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerLook.cs.meta",
+    "modifiedLocal": "2022-12-18T18:36:37.685936",
+    "sha256": "864e74d5442dfe93ad5f2b026f355db6f9eab34ca07c05355400f114c00f4920",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/PlayerMove.cs",
+    "originalPath": "Assets/Scripts/PlayerMove.cs",
+    "modifiedLocal": "2023-02-26T18:45:46.104393",
+    "sha256": "698c86fa83484ffac1a75cf85617a44074957ab8983190a6a546188ff26cad85",
+    "bytes": 2622
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/PlayerMove.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerMove.cs.meta",
+    "modifiedLocal": "2022-12-11T18:30:03.973640",
+    "sha256": "327f452d7d8f8fa2a223bfbd5af066c4419b2fe4440f0bae6b6180068b307767",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/Predator.cs",
+    "originalPath": "Assets/Scripts/Predator.cs",
+    "modifiedLocal": "2023-03-05T17:23:14.584481",
+    "sha256": "6d3f468ae4b949762685eed6beb176272b98ca9375121ed53168d5a91130deac",
+    "bytes": 1344
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/Predator.cs.meta",
+    "originalPath": "Assets/Scripts/Predator.cs.meta",
+    "modifiedLocal": "2023-02-26T18:39:48.653430",
+    "sha256": "2843b339dc040b8b4893b7703d57b08ad4e656b88b9ddc93a991a71d3bbd8614",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/save.cs",
+    "originalPath": "Assets/Scripts/save.cs",
+    "modifiedLocal": "2023-02-26T17:31:26.075884",
+    "sha256": "ea344d4391c76c490a09bcfc8c15ad479e518a4f85cd56cc212107cc93c5d9ad",
+    "bytes": 954
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/save.cs.meta",
+    "originalPath": "Assets/Scripts/save.cs.meta",
+    "modifiedLocal": "2023-02-19T19:22:38.488369",
+    "sha256": "56be8a54057ad29e43e11ae68399d8aaeee9e097a4059596a9d225e25d1081ac",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/SniperEnemy.cs",
+    "originalPath": "Assets/Scripts/SniperEnemy.cs",
+    "modifiedLocal": "2023-03-05T18:55:32.415145",
+    "sha256": "1d935dd43139096a39aef3ac940af972472e74dae17de5163ceb36cc643e6289",
+    "bytes": 1836
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/SniperEnemy.cs.meta",
+    "originalPath": "Assets/Scripts/SniperEnemy.cs.meta",
+    "modifiedLocal": "2023-03-05T18:53:19.197406",
+    "sha256": "a487ee87f48cf15c292a8c88cd730b0954f00527c34c92cc42e10f2a3a49a7dd",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/Turret.cs",
+    "originalPath": "Assets/Scripts/Turret.cs",
+    "modifiedLocal": "2023-03-05T17:22:10.843554",
+    "sha256": "1d11f0c991598cffc56ad151fe34d71d4773ba985a8aaeba4899801128f21696",
+    "bytes": 1119
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Assets/Scripts/Turret.cs.meta",
+    "originalPath": "Assets/Scripts/Turret.cs.meta",
+    "modifiedLocal": "2023-02-26T18:39:54.069000",
+    "sha256": "f30c6e41a2a58fa9e6c59201c586bc56ab2d393ab5a9cd5c75aef577dd6acd53",
+    "bytes": 243
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Packages/manifest.json",
+    "originalPath": "Packages/manifest.json",
+    "modifiedLocal": "2022-11-20T19:09:31.899601",
+    "sha256": "ff1f2d4e458c50522e7d67921ff2e5829381722fffc5afa5dea5b993564b7710",
+    "bytes": 1811
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/Packages/packages-lock.json",
+    "originalPath": "Packages/packages-lock.json",
+    "modifiedLocal": "2022-11-20T19:10:04.117192",
+    "sha256": "d1601d9d42f46b997e1aa3f94bcd9b37df56ef07b4a2c1e0ef19414f90ee50fe",
+    "bytes": 11022
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/ProjectSettings/EditorBuildSettings.asset",
+    "originalPath": "ProjectSettings/EditorBuildSettings.asset",
+    "modifiedLocal": "2023-01-08T19:09:07.532813",
+    "sha256": "973967e57233db39c9caf57069fc06a0a0f2d0716f0e41e555e1813a6f9a1c4d",
+    "bytes": 352
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/ProjectSettings/InputManager.asset",
+    "originalPath": "ProjectSettings/InputManager.asset",
+    "modifiedLocal": "2022-05-26T23:47:50",
+    "sha256": "1fb1c30f8a1615cf9a4220be6d18a33eccd3a09cc4cd0a3c7cd0a38a7c083134",
+    "bytes": 5793
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/ProjectSettings/ProjectVersion.txt",
+    "originalPath": "ProjectSettings/ProjectVersion.txt",
+    "modifiedLocal": "2022-11-20T19:10:10.950069",
+    "sha256": "5cdc84492fbac63c05160560ca05f2b6a79c74a6444e69b85935d65746a369bf",
+    "bytes": 85
+  },
+  {
+    "project": "2022-2023-first-person-study",
+    "path": "projects/2022-2023-first-person-study/source/ProjectSettings/TagManager.asset",
+    "originalPath": "ProjectSettings/TagManager.asset",
+    "modifiedLocal": "2023-02-12T19:35:03.038495",
+    "sha256": "92d1998cf85252769cc4d6e6e3d46c07f0cb9378eee33ed65575b37cc64eb21b",
+    "bytes": 588
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scenes/SampleScene.unity",
+    "originalPath": "Assets/Scenes/SampleScene.unity",
+    "modifiedLocal": "2023-05-21T20:28:26.865000",
+    "sha256": "d767098c867291ed8d41de5d19e857d2689b4a823b1a7bc6ac7b63fa6f458eb5",
+    "bytes": 699403
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scenes/SampleScene.unity.meta",
+    "originalPath": "Assets/Scenes/SampleScene.unity.meta",
+    "modifiedLocal": "2022-05-26T23:47:49",
+    "sha256": "aceab14f038dbd3a1778159772cd9e89d7d8188f9158f06c204a8912438d8c96",
+    "bytes": 155
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/AntiAbyss.cs",
+    "originalPath": "Assets/Scripts/AntiAbyss.cs",
+    "modifiedLocal": "2023-04-23T18:09:56.808386",
+    "sha256": "f8c3a3b1774e597e0c0d8edd7933df381f40ec8e3cf1afb35f8beee30528aae5",
+    "bytes": 579
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/AntiAbyss.cs.meta",
+    "originalPath": "Assets/Scripts/AntiAbyss.cs.meta",
+    "modifiedLocal": "2023-04-16T17:49:39.438550",
+    "sha256": "461609087a4a1a2c944c4de8e152be694cc75f3468cb7d21e5c850c7e86c8b1a",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Batoot.cs",
+    "originalPath": "Assets/Scripts/Batoot.cs",
+    "modifiedLocal": "2023-04-16T19:19:55.680705",
+    "sha256": "0da6247634b2d99f62c5697f48b40c5636cca126c3ffd589fb26377cf347262d",
+    "bytes": 512
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Batoot.cs.meta",
+    "originalPath": "Assets/Scripts/Batoot.cs.meta",
+    "modifiedLocal": "2023-04-16T19:19:11.523148",
+    "sha256": "dfcbe99bffadced3c62690cfdd186633e0b3fe8e0f25d86147fec1dfa70a3850",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Bounce.cs",
+    "originalPath": "Assets/Scripts/Bounce.cs",
+    "modifiedLocal": "2023-05-07T19:07:56.347467",
+    "sha256": "a222cfe63ec3c8d57d1bd90b09f4988badbf2987bd06e7660f58e97e7787ce54",
+    "bytes": 474
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Bounce.cs.meta",
+    "originalPath": "Assets/Scripts/Bounce.cs.meta",
+    "modifiedLocal": "2023-05-07T19:08:06.449630",
+    "sha256": "21f11096c943f44785b8be274ab55151bc0b3a0e1a07ee9c8bef87b46144a0f8",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/BrokenDoors.cs",
+    "originalPath": "Assets/Scripts/BrokenDoors.cs",
+    "modifiedLocal": "2023-04-16T18:14:25.481286",
+    "sha256": "f7c7f1f496d03934e7592b2f47f6cca60e6db36547839c3ac043fdcc54602295",
+    "bytes": 553
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/BrokenDoors.cs.meta",
+    "originalPath": "Assets/Scripts/BrokenDoors.cs.meta",
+    "modifiedLocal": "2023-04-02T19:01:38.769779",
+    "sha256": "1e8e192e381ef4f2b750fff2e4684d6bc2c7ec2637b6ecce2461a849d499886b",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Bulava1.cs",
+    "originalPath": "Assets/Scripts/Bulava1.cs",
+    "modifiedLocal": "2023-05-21T19:39:28.891118",
+    "sha256": "bac78a90647d26df535c98ef200f28c95425131fa84d2de4152309456984a5fd",
+    "bytes": 252
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Bulava1.cs.meta",
+    "originalPath": "Assets/Scripts/Bulava1.cs.meta",
+    "modifiedLocal": "2023-05-07T18:59:10.342282",
+    "sha256": "db276b515d442b1cf85d1808cfc7dc2aaa53b2b8d0f07f1adde28cbf7dcee2be",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/FallPlatforms.cs",
+    "originalPath": "Assets/Scripts/FallPlatforms.cs",
+    "modifiedLocal": "2023-04-16T18:30:00.137187",
+    "sha256": "cb8de2a12dfdf1ca905c858ecfadab9449891a06a97b1d939fbd704454910d42",
+    "bytes": 263
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/FallPlatforms.cs.meta",
+    "originalPath": "Assets/Scripts/FallPlatforms.cs.meta",
+    "modifiedLocal": "2023-04-16T17:33:32.799113",
+    "sha256": "86b99ed058efa3117eadc4d2b04407280c64e9e4a8db3a400616ce620dffb65b",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Pendulum.cs",
+    "originalPath": "Assets/Scripts/Pendulum.cs",
+    "modifiedLocal": "2023-05-21T20:01:34.226528",
+    "sha256": "3737b76e50b1881ffdbb3daafac67d0bc5ed3cbc1f42cc26f858c1057ccce737",
+    "bytes": 251
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Pendulum.cs.meta",
+    "originalPath": "Assets/Scripts/Pendulum.cs.meta",
+    "modifiedLocal": "2023-05-07T19:04:31.094952",
+    "sha256": "eea56f15abaea68181f8c222488f508cc06e8352b75ebca14e9866fe137ba915",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/PlayerLookFallGuys.cs",
+    "originalPath": "Assets/Scripts/PlayerLookFallGuys.cs",
+    "modifiedLocal": "2023-03-19T18:44:19.710580",
+    "sha256": "05214c82580312ef83130d1e48d1d70bd1697d7a77b31e530466b129752e047b",
+    "bytes": 482
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/PlayerLookFallGuys.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerLookFallGuys.cs.meta",
+    "modifiedLocal": "2023-03-19T18:44:37.183296",
+    "sha256": "c94de3edc99eb86b18a70f2a7c43189b7b83f92610449b4430d54128639e299c",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/PlayerMoveFall.cs",
+    "originalPath": "Assets/Scripts/PlayerMoveFall.cs",
+    "modifiedLocal": "2023-05-21T20:22:02.878880",
+    "sha256": "3af90a554dd85d04da5c5a78c9cf4d2312735075ed0415cb9bcee70553bece68",
+    "bytes": 1793
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/PlayerMoveFall.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerMoveFall.cs.meta",
+    "modifiedLocal": "2023-03-19T19:21:32.728329",
+    "sha256": "e807cd3cce92325a6ccf6df55e04deddb1b4bb8cbc3b031d174c207d03d4326c",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Shar.cs",
+    "originalPath": "Assets/Scripts/Shar.cs",
+    "modifiedLocal": "2023-05-21T19:40:52.421969",
+    "sha256": "2a599cdd285f62743798367bfb3c18ecd6ab535784ce7d82330712d4aed50bb8",
+    "bytes": 304
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Shar.cs.meta",
+    "originalPath": "Assets/Scripts/Shar.cs.meta",
+    "modifiedLocal": "2023-05-07T20:00:19.663262",
+    "sha256": "51a92b75a636012cb56b46eeec593e29b8f9a35df265723fa72cc20b026bd74c",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex1 1.controller.meta",
+    "originalPath": "Assets/Scripts/Spherex1 1.controller.meta",
+    "modifiedLocal": "2023-05-21T19:51:42.098959",
+    "sha256": "06954ae8f6e5ee3d73a98cc25be625c2bac73913ac395c3fdc0992096aaffae0",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex1 2.controller.meta",
+    "originalPath": "Assets/Scripts/Spherex1 2.controller.meta",
+    "modifiedLocal": "2023-05-21T19:54:39.585712",
+    "sha256": "5fab58042fce6e25d87a5b4d5cd862c8812dc798f6a6ba025efc7c86698dd0b3",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex1 3.controller.meta",
+    "originalPath": "Assets/Scripts/Spherex1 3.controller.meta",
+    "modifiedLocal": "2023-05-21T19:55:15.598139",
+    "sha256": "60c9bd5fd379b2d67bbfc3d5705ce8180c41fe16283098d12c1993a8b83e81e2",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex1.controller.meta",
+    "originalPath": "Assets/Scripts/Spherex1.controller.meta",
+    "modifiedLocal": "2023-05-21T19:47:36.779778",
+    "sha256": "1537ded11b66f05ec61b7534ee9ba46992c6e20708235896ba38951382af80f1",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex2 1.controller.meta",
+    "originalPath": "Assets/Scripts/Spherex2 1.controller.meta",
+    "modifiedLocal": "2023-05-21T19:57:40.956362",
+    "sha256": "01db4935484bdd1ef6e007d25e7d18da681ff194aa22696e01e7957578c70dae",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex2.controller.meta",
+    "originalPath": "Assets/Scripts/Spherex2.controller.meta",
+    "modifiedLocal": "2023-05-21T19:57:22.839128",
+    "sha256": "ed5bdd5b5623babbe13a929237371ed806620d237d3f67a21b856405d0c44a0b",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex3.controller.meta",
+    "originalPath": "Assets/Scripts/Spherex3.controller.meta",
+    "modifiedLocal": "2023-05-21T19:58:33.169174",
+    "sha256": "aa78ef5b988bf5f101bb64906ae9fefa006c5f05320fd8d1ec2d3597fde1f43f",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex_anima.anim.meta",
+    "originalPath": "Assets/Scripts/Spherex_anima.anim.meta",
+    "modifiedLocal": "2023-05-21T19:47:36.665793",
+    "sha256": "8df7fc660f4bf10b7c92c1bdd17412741a3ab7a9f0b07ea2c4404f626ff66595",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex_anima2.anim.meta",
+    "originalPath": "Assets/Scripts/Spherex_anima2.anim.meta",
+    "modifiedLocal": "2023-05-21T19:51:42.032884",
+    "sha256": "c6a0492d3fece08fd0a941acc6f5417d1419467ace7b728529aa4d2ec33afeb0",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/Spherex_anima3.anim.meta",
+    "originalPath": "Assets/Scripts/Spherex_anima3.anim.meta",
+    "modifiedLocal": "2023-05-21T19:54:39.522878",
+    "sha256": "ca61c0374c5fd7728cc86981772409923bf78df6de64defebaa63f13d16a9003",
+    "bytes": 188
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/WindForce.cs",
+    "originalPath": "Assets/Scripts/WindForce.cs",
+    "modifiedLocal": "2023-04-09T19:14:00.389206",
+    "sha256": "09165b98a70debc725d644ccbee2c741b8351744311fef17bef2cb94d5c774b6",
+    "bytes": 563
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Assets/Scripts/WindForce.cs.meta",
+    "originalPath": "Assets/Scripts/WindForce.cs.meta",
+    "modifiedLocal": "2023-04-09T19:12:25.670898",
+    "sha256": "f44e88211c9ad6f4e16ec950922e86b1b279210bc302245b8001be5c6a3582fe",
+    "bytes": 243
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Packages/manifest.json",
+    "originalPath": "Packages/manifest.json",
+    "modifiedLocal": "2023-04-30T18:21:13.304548",
+    "sha256": "2250805ea6f06944b5faf60084ce16a0aea853280d79c5d8ce626df49ed7cde0",
+    "bytes": 1848
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/Packages/packages-lock.json",
+    "originalPath": "Packages/packages-lock.json",
+    "modifiedLocal": "2023-04-30T18:21:13.313545",
+    "sha256": "2f4069c2f355e5e2360f2596144648a08143f409b1d7cd36e169b1a4100aac90",
+    "bytes": 11342
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/ProjectSettings/EditorBuildSettings.asset",
+    "originalPath": "ProjectSettings/EditorBuildSettings.asset",
+    "modifiedLocal": "2022-05-26T23:47:50",
+    "sha256": "1942c088ddfeeef348fdf12390e2a2d6da51056e197458d67969d44e7b2cbbd3",
+    "bytes": 160
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/ProjectSettings/InputManager.asset",
+    "originalPath": "ProjectSettings/InputManager.asset",
+    "modifiedLocal": "2022-05-26T23:47:50",
+    "sha256": "1fb1c30f8a1615cf9a4220be6d18a33eccd3a09cc4cd0a3c7cd0a38a7c083134",
+    "bytes": 5793
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/ProjectSettings/ProjectVersion.txt",
+    "originalPath": "ProjectSettings/ProjectVersion.txt",
+    "modifiedLocal": "2023-03-19T18:28:28.657357",
+    "sha256": "5cdc84492fbac63c05160560ca05f2b6a79c74a6444e69b85935d65746a369bf",
+    "bytes": 85
+  },
+  {
+    "project": "2023-physics-playground",
+    "path": "projects/2023-physics-playground/source/ProjectSettings/TagManager.asset",
+    "originalPath": "ProjectSettings/TagManager.asset",
+    "modifiedLocal": "2023-05-07T20:00:19.562574",
+    "sha256": "44d81c520618278684d6d1359e8ecd15cc34c0d7ed535605a09a3310e3644810",
+    "bytes": 403
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scenes/Menu_1.unity",
+    "originalPath": "Assets/Scenes/Menu_1.unity",
+    "modifiedLocal": "2023-09-06T21:24:42.618657",
+    "sha256": "2d4387895879ea8ab7e19085c2f45281187705c1fa659d2f15e1f42d2befba9d",
+    "bytes": 525872
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scenes/Menu_1.unity.meta",
+    "originalPath": "Assets/Scenes/Menu_1.unity.meta",
+    "modifiedLocal": "2023-08-30T20:57:13.029753",
+    "sha256": "5346e8db91a3d00fef199d0f7ea9de9c89e853f519da83a84d82a52f5baf5f7b",
+    "bytes": 155
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scenes/SampleScene.unity",
+    "originalPath": "Assets/Scenes/SampleScene.unity",
+    "modifiedLocal": "2022-05-26T23:47:49",
+    "sha256": "6ba4bb647064e63bae95badc79af95cb2b33589e0dbaa29dd6e382d43657f9c7",
+    "bytes": 7322
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scenes/SampleScene.unity.meta",
+    "originalPath": "Assets/Scenes/SampleScene.unity.meta",
+    "modifiedLocal": "2022-05-26T23:47:49",
+    "sha256": "aceab14f038dbd3a1778159772cd9e89d7d8188f9158f06c204a8912438d8c96",
+    "bytes": 155
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scenes/SimpleTown_DemoScene.meta",
+    "originalPath": "Assets/Scenes/SimpleTown_DemoScene.meta",
+    "modifiedLocal": "2023-10-11T20:31:29.251974",
+    "sha256": "6a5ec55ed6752cec53d9dbbcde205c590dffeac9a7aa40261a0606c3f98aee2a",
+    "bytes": 172
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scenes/SimpleTown_DemoScene.unity",
+    "originalPath": "Assets/Scenes/SimpleTown_DemoScene.unity",
+    "modifiedLocal": "2023-12-20T21:05:06.923262",
+    "sha256": "3b3ec6556125b9689e704832f98e48288717985ccc9d9caa95dbd2bb30f5e68a",
+    "bytes": 4212742
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scenes/SimpleTown_DemoScene.unity.meta",
+    "originalPath": "Assets/Scenes/SimpleTown_DemoScene.unity.meta",
+    "modifiedLocal": "2017-04-11T07:48:07",
+    "sha256": "cd46b05aa26d04c93582933f9fc25f8f99a7c53894e67085c29794a1ce40942c",
+    "bytes": 90
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/barrel_scr.cs",
+    "originalPath": "Assets/Scripts/barrel_scr.cs",
+    "modifiedLocal": "2023-10-04T21:23:32.011226",
+    "sha256": "12d57d306edb7a9c0b080be734d54cc7ae0bbe0d206b29bc93aea98f86c854c9",
+    "bytes": 1118
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/barrel_scr.cs.meta",
+    "originalPath": "Assets/Scripts/barrel_scr.cs.meta",
+    "modifiedLocal": "2023-08-02T21:05:23.680279",
+    "sha256": "95d2a51763cc7e9ec7b4a4ac52b94f3885c0bfbd76c00119cc8c70bdb6a0a35b",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Bird.cs",
+    "originalPath": "Assets/Scripts/Bird.cs",
+    "modifiedLocal": "2023-10-18T21:31:15.038132",
+    "sha256": "d92e21a4a00106a4b162f3c067892f3e7ae250cfb0682dd104fd005f521491fd",
+    "bytes": 1230
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Bird.cs.meta",
+    "originalPath": "Assets/Scripts/Bird.cs.meta",
+    "modifiedLocal": "2023-10-18T21:14:49.450300",
+    "sha256": "8a30a2d3cba9e29f45dbe66f4288966361b9ad7b573415dccd7cd887d246e4ee",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Bullet.cs",
+    "originalPath": "Assets/Scripts/Bullet.cs",
+    "modifiedLocal": "2023-10-04T21:23:47.453186",
+    "sha256": "6a8724831eb3f38b20f2def49dafb0d5062d28190de04d313b13e35731b0453b",
+    "bytes": 970
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Bullet.cs.meta",
+    "originalPath": "Assets/Scripts/Bullet.cs.meta",
+    "modifiedLocal": "2023-08-02T20:11:34.627213",
+    "sha256": "ea5fc1f8df3de41ce8c73c2b02bb5fdd5b387eb9a87edafed4f4f28b935a72af",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/CarController.cs",
+    "originalPath": "Assets/Scripts/CarController.cs",
+    "modifiedLocal": "2024-04-14T17:40:35.120530",
+    "sha256": "edf6402849baca06a1992f0941ff780f146d2caabfe07a78ea9b6502168626fe",
+    "bytes": 2385
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/CarController.cs.meta",
+    "originalPath": "Assets/Scripts/CarController.cs.meta",
+    "modifiedLocal": "2023-12-06T20:38:49.203754",
+    "sha256": "6e9c117113f7cc2128d0cd508ffd0d10ab0d3031e1222006fef53f691494022c",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/dropBox.cs",
+    "originalPath": "Assets/Scripts/dropBox.cs",
+    "modifiedLocal": "2023-10-18T21:23:49.745035",
+    "sha256": "7b867d98c8fe28d4aeb28b99b16c534f62b8c44a38850ccb74efe75f34af4220",
+    "bytes": 1776
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/dropBox.cs.meta",
+    "originalPath": "Assets/Scripts/dropBox.cs.meta",
+    "modifiedLocal": "2023-10-18T21:02:32.472749",
+    "sha256": "d5148f7216f3ed68f246cf08746f40db4ebd877bac0027e266e8af94863b20ff",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/EnemyAI.cs",
+    "originalPath": "Assets/Scripts/EnemyAI.cs",
+    "modifiedLocal": "2023-10-25T21:18:34.941979",
+    "sha256": "37ce91054ccbdff270fa6368b9c4d167a7516a0287e6bbd17d9fdc08234a4a1c",
+    "bytes": 2056
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/EnemyAI.cs.meta",
+    "originalPath": "Assets/Scripts/EnemyAI.cs.meta",
+    "modifiedLocal": "2023-10-25T21:18:50.605400",
+    "sha256": "bd84632f87706b94ef41acbbe9dbd88a665c8d5eab6541900fb8fe426d456b5f",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/ExitGame.cs",
+    "originalPath": "Assets/Scripts/ExitGame.cs",
+    "modifiedLocal": "2023-08-16T19:26:48.524583",
+    "sha256": "446580fc212830b4e1f1c957ab7440f1e1e8c9431a7c4d2330d18350a3b74fb5",
+    "bytes": 392
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/ExitGame.cs.meta",
+    "originalPath": "Assets/Scripts/ExitGame.cs.meta",
+    "modifiedLocal": "2023-08-16T19:19:33.201954",
+    "sha256": "ab3a737f05a02c3bcc9af35ee7fd352ff60e190afbd7495b315fa1e8f27795ff",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/go_to_car.cs",
+    "originalPath": "Assets/Scripts/go_to_car.cs",
+    "modifiedLocal": "2023-12-13T20:52:34.413262",
+    "sha256": "d84b2cab002c3d2de2edeeb1b1cd6441ab84258311d080f8e5593be62ccdfda6",
+    "bytes": 1420
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/go_to_car.cs.meta",
+    "originalPath": "Assets/Scripts/go_to_car.cs.meta",
+    "modifiedLocal": "2023-12-13T20:51:23.336500",
+    "sha256": "1df75a8954ec617bb93a29cabe0c3454bed42635376f4873c146078c9a933fa2",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/go_to_race_scr.cs",
+    "originalPath": "Assets/Scripts/go_to_race_scr.cs",
+    "modifiedLocal": "2023-12-20T21:04:04.010618",
+    "sha256": "5ef1c8b145ee7957520eae828d7ceee2338204fca9968bf3723fe55746f191cf",
+    "bytes": 932
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/go_to_race_scr.cs.meta",
+    "originalPath": "Assets/Scripts/go_to_race_scr.cs.meta",
+    "modifiedLocal": "2023-12-20T20:49:35.454179",
+    "sha256": "47b08f74edc090a62afdfbb9f71aaba50435cff537becfbc88083cdf6c8637c4",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/IKControl.cs",
+    "originalPath": "Assets/Scripts/IKControl.cs",
+    "modifiedLocal": "2023-10-04T20:46:04.189819",
+    "sha256": "5a609c8b1b150a68447c643724edbb9bc4062d746c9bf8fa5248dcb89f3d153e",
+    "bytes": 358
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/IKControl.cs.meta",
+    "originalPath": "Assets/Scripts/IKControl.cs.meta",
+    "modifiedLocal": "2023-10-04T20:46:11.399430",
+    "sha256": "213a23951aa8a28a27e83917c3107e7bde77b6484fdbc9ec216e8fed578faccf",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/IKControl2.cs",
+    "originalPath": "Assets/Scripts/IKControl2.cs",
+    "modifiedLocal": "2023-10-04T21:33:47.051806",
+    "sha256": "025968a850fe560cca5a81f73e14a266134829e32d2608f28d1484800d7f30e9",
+    "bytes": 1924
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/IKControl2.cs.meta",
+    "originalPath": "Assets/Scripts/IKControl2.cs.meta",
+    "modifiedLocal": "2023-10-04T21:01:11.245321",
+    "sha256": "8fbc663a1d79360179e175c36546ea49299fde638fe1d264e00a685e6fb98572",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/menu.cs",
+    "originalPath": "Assets/Scripts/menu.cs",
+    "modifiedLocal": "2023-09-06T20:18:05.921790",
+    "sha256": "bd0dcaf0b6dc10811412af385caa37bb286a7bd338d42ae332454f53777bbeeb",
+    "bytes": 2076
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/menu.cs.meta",
+    "originalPath": "Assets/Scripts/menu.cs.meta",
+    "modifiedLocal": "2023-09-06T20:15:25.895504",
+    "sha256": "8f8eb23095489dbda15fb28a83e927d7a43a51c21907d42a43799f62eb6b341a",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/NavigationAI.cs",
+    "originalPath": "Assets/Scripts/NavigationAI.cs",
+    "modifiedLocal": "2023-10-25T21:18:33.000595",
+    "sha256": "961fc3830bf9fce93107be5ff4ea1366a6d49568d118d58ac5404cfde649ab38",
+    "bytes": 1018
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/NavigationAI.cs.meta",
+    "originalPath": "Assets/Scripts/NavigationAI.cs.meta",
+    "modifiedLocal": "2023-10-25T21:18:50.577401",
+    "sha256": "2fbc8158a1a83129e6efad71e12539886e7f1e839d4d0606913319c3a68672f4",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/NavMen.cs",
+    "originalPath": "Assets/Scripts/NavMen.cs",
+    "modifiedLocal": "2023-10-11T20:59:19.621952",
+    "sha256": "2803513b38ba5b028411d6b65466ec5bc433bc1f443253b9dcc8115efbb27f88",
+    "bytes": 643
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/NavMen.cs.meta",
+    "originalPath": "Assets/Scripts/NavMen.cs.meta",
+    "modifiedLocal": "2023-10-11T20:59:27.276897",
+    "sha256": "39168ced4bddec852b4db17504f4f3effe9042ed5dd7c07e10caf91a6e003774",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/npc_scr.cs",
+    "originalPath": "Assets/Scripts/npc_scr.cs",
+    "modifiedLocal": "2023-11-22T20:11:24.637849",
+    "sha256": "f651c2a66ff72925adb97661f4cc6fff32789cb3191784cf88b6150f119a645f",
+    "bytes": 2100
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/npc_scr.cs.meta",
+    "originalPath": "Assets/Scripts/npc_scr.cs.meta",
+    "modifiedLocal": "2023-11-22T20:11:32.925343",
+    "sha256": "792f9d8944b7e8740d261bfd19f0982ea9599ffcfa7562ebd419bf5a12c19835",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/OpticalSight.cs",
+    "originalPath": "Assets/Scripts/OpticalSight.cs",
+    "modifiedLocal": "2023-09-20T20:30:33.892902",
+    "sha256": "e783e8ebea8bcd63e1236703f7fa12f9ea28b663d6a503db116a1da149196aaf",
+    "bytes": 1434
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/OpticalSight.cs.meta",
+    "originalPath": "Assets/Scripts/OpticalSight.cs.meta",
+    "modifiedLocal": "2023-09-20T20:30:50.398142",
+    "sha256": "5fa7e2f4717116b66db4a0a13e3d3c4933e26569ae9189d71899534b1cc81b21",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/PlayerController.cs",
+    "originalPath": "Assets/Scripts/PlayerController.cs",
+    "modifiedLocal": "2023-11-22T20:23:26.922398",
+    "sha256": "98b6fce429dda12a293ff48c6235c48cf50217ef531e5cb90ba6037ec5c63b96",
+    "bytes": 3237
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/PlayerController.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerController.cs.meta",
+    "modifiedLocal": "2023-08-02T20:11:34.648212",
+    "sha256": "00833097c34f9271036606fe7e384dc35c9ea366d59c02dda60c82f7d160a250",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/PlayerLook.cs",
+    "originalPath": "Assets/Scripts/PlayerLook.cs",
+    "modifiedLocal": "2024-04-06T12:37:01.529310",
+    "sha256": "db6003f6fb4df0056a634629168984fe283ba1e585260781fca073238f27b8d2",
+    "bytes": 1180
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/PlayerLook.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerLook.cs.meta",
+    "modifiedLocal": "2023-07-19T21:03:25.326969",
+    "sha256": "01e8e3349e393114011796e5eadc6bbcaec4f629c369c3716adf3970118d29a3",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/PlayerMove.cs",
+    "originalPath": "Assets/Scripts/PlayerMove.cs",
+    "modifiedLocal": "2023-09-20T21:17:23.036019",
+    "sha256": "278f6efbc728474f355ea55b5d93e2a340874709b8641e07c00c010452f81de2",
+    "bytes": 885
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/PlayerMove.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerMove.cs.meta",
+    "modifiedLocal": "2023-07-19T21:03:19.655333",
+    "sha256": "7ca62e69e0919a6efae29086aaa77e0505c03e4f0ca14b6a1b1b33abf5459e66",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/quest.cs",
+    "originalPath": "Assets/Scripts/quest.cs",
+    "modifiedLocal": "2023-11-22T20:26:39.331652",
+    "sha256": "5db9d35d271dce9ca96fe740c129eb25528e3ff6092df14642d71842257827e8",
+    "bytes": 728
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/quest.cs.meta",
+    "originalPath": "Assets/Scripts/quest.cs.meta",
+    "modifiedLocal": "2023-11-15T20:40:18.246889",
+    "sha256": "b457ba4b7864163dfcdd9437bc86279e6bde94988a54edd421233cedb43bbd17",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/race_scr.cs",
+    "originalPath": "Assets/Scripts/race_scr.cs",
+    "modifiedLocal": "2023-12-20T21:10:43.152533",
+    "sha256": "12b7c23abe9506709d06ab5c8596f0de1a9f6113da1bfad262df91f3a5ec783e",
+    "bytes": 597
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/race_scr.cs.meta",
+    "originalPath": "Assets/Scripts/race_scr.cs.meta",
+    "modifiedLocal": "2023-12-20T21:11:14.319127",
+    "sha256": "7e7c89629fd0cc7e12d7dfe7b154d136028c893c26c65be22165fef65d47c8f4",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Ragdoll.cs",
+    "originalPath": "Assets/Scripts/Ragdoll.cs",
+    "modifiedLocal": "2023-10-04T21:30:08.627674",
+    "sha256": "716302135d798fa6fc0045c9320fd55e869f0d329b1f95f43ae90072f396d3a6",
+    "bytes": 989
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Ragdoll.cs.meta",
+    "originalPath": "Assets/Scripts/Ragdoll.cs.meta",
+    "modifiedLocal": "2023-09-27T20:37:48.291590",
+    "sha256": "4c39cfbee1a3ddb5c54fdf46fdd4378143ec497b0caec111da92232f71af2bf8",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/shop.cs",
+    "originalPath": "Assets/Scripts/shop.cs",
+    "modifiedLocal": "2023-11-29T21:00:31.604417",
+    "sha256": "590417c87ac0f40fbb50824689475831020a7d355d115189b99a97fb6ac1b36c",
+    "bytes": 1284
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/shop.cs.meta",
+    "originalPath": "Assets/Scripts/shop.cs.meta",
+    "modifiedLocal": "2023-12-06T20:14:07.813063",
+    "sha256": "6741b365c42242b66298bd62c794bfe60379926fd26a87de0acf07f6958f567b",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Spawner.cs",
+    "originalPath": "Assets/Scripts/Spawner.cs",
+    "modifiedLocal": "2023-11-01T20:42:53.099965",
+    "sha256": "d3a1c210fff3c69a0a70bdbf8c72451721dd601e8ecf895e71f4f941e04162f1",
+    "bytes": 1700
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Spawner.cs.meta",
+    "originalPath": "Assets/Scripts/Spawner.cs.meta",
+    "modifiedLocal": "2023-07-26T20:28:29.151522",
+    "sha256": "0c93126870bc8abf159973dc7923137586b5bd96eb93a7f9a8d026b33077ca37",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/spisok_zadaniy.cs",
+    "originalPath": "Assets/Scripts/spisok_zadaniy.cs",
+    "modifiedLocal": "2023-11-15T21:05:19.560957",
+    "sha256": "de92e8ad194237e339667d056f7b927f6933c86d4528587da41e22c2f518ccf7",
+    "bytes": 539
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/spisok_zadaniy.cs.meta",
+    "originalPath": "Assets/Scripts/spisok_zadaniy.cs.meta",
+    "modifiedLocal": "2023-11-15T20:40:18.228893",
+    "sha256": "f9865e64559f264151099aa0820b666cf19818980ffc384a5ce1a2bc06278b58",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Step.cs",
+    "originalPath": "Assets/Scripts/Step.cs",
+    "modifiedLocal": "2023-10-04T20:59:01.315522",
+    "sha256": "351f8df2210386336f5bbf0d935c319aa37bfc96294968ba4b8c0cdf4201d2c5",
+    "bytes": 396
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Step.cs.meta",
+    "originalPath": "Assets/Scripts/Step.cs.meta",
+    "modifiedLocal": "2023-10-04T20:58:20.491161",
+    "sha256": "c8bfa1276bba29acf6e564209ef48b222d79df29f0c0da0b8952c612485b682f",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Volume.cs",
+    "originalPath": "Assets/Scripts/Volume.cs",
+    "modifiedLocal": "2023-09-06T21:20:35.190316",
+    "sha256": "5dba563d38d948e1db832108be1be1cb6eb235209fab0b3f6ec181b7c6e33503",
+    "bytes": 893
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scripts/Volume.cs.meta",
+    "originalPath": "Assets/Scripts/Volume.cs.meta",
+    "modifiedLocal": "2023-09-06T20:15:25.923503",
+    "sha256": "7ef84b3e35ac6cf8c314bbec30e8146d89ac1cc9abc3a6f8435d8732cb3543a0",
+    "bytes": 243
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Assets/Scenes/SimpleTown_DemoScene/NavMesh.asset.meta",
+    "originalPath": "Assets/Scenes/SimpleTown_DemoScene/NavMesh.asset.meta",
+    "modifiedLocal": "2023-10-11T21:24:45.509137",
+    "sha256": "8883808fb403d19ce6df6a1825adbe103765063839b7c8f44c73f70e95911ae0",
+    "bytes": 189
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Packages/manifest.json",
+    "originalPath": "Packages/manifest.json",
+    "modifiedLocal": "2023-07-19T20:37:25.059158",
+    "sha256": "ff1f2d4e458c50522e7d67921ff2e5829381722fffc5afa5dea5b993564b7710",
+    "bytes": 1811
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/Packages/packages-lock.json",
+    "originalPath": "Packages/packages-lock.json",
+    "modifiedLocal": "2023-07-19T20:37:58.602433",
+    "sha256": "d1601d9d42f46b997e1aa3f94bcd9b37df56ef07b4a2c1e0ef19414f90ee50fe",
+    "bytes": 11022
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/ProjectSettings/EditorBuildSettings.asset",
+    "originalPath": "ProjectSettings/EditorBuildSettings.asset",
+    "modifiedLocal": "2023-12-20T21:05:06.266182",
+    "sha256": "b2ed718db2978f43d7789b9106ade8bd6e1fe9074dae570de9a52a641ca54729",
+    "bytes": 467
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/ProjectSettings/InputManager.asset",
+    "originalPath": "ProjectSettings/InputManager.asset",
+    "modifiedLocal": "2022-05-26T23:47:50",
+    "sha256": "1fb1c30f8a1615cf9a4220be6d18a33eccd3a09cc4cd0a3c7cd0a38a7c083134",
+    "bytes": 5793
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/ProjectSettings/ProjectVersion.txt",
+    "originalPath": "ProjectSettings/ProjectVersion.txt",
+    "modifiedLocal": "2023-07-19T20:38:09.466571",
+    "sha256": "5cdc84492fbac63c05160560ca05f2b6a79c74a6444e69b85935d65746a369bf",
+    "bytes": 85
+  },
+  {
+    "project": "2023-2024-city-sandbox",
+    "path": "projects/2023-2024-city-sandbox/source/ProjectSettings/TagManager.asset",
+    "originalPath": "ProjectSettings/TagManager.asset",
+    "modifiedLocal": "2023-12-20T21:27:23.204580",
+    "sha256": "6a2c40fc1c141c05646887cc26d19ad6951e1a0b28952506042c28a5d0a557a5",
+    "bytes": 435
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/Art.unity",
+    "originalPath": "Assets/Scenes/Art.unity",
+    "modifiedLocal": "2022-07-01T21:41:21",
+    "sha256": "8a613fe0796f07a3ad10b513b0b45bdc661451d74b6c722db71d8fe384de9dd0",
+    "bytes": 106687
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/Art.unity.meta",
+    "originalPath": "Assets/Scenes/Art.unity.meta",
+    "modifiedLocal": "2024-01-24T20:19:34.349784",
+    "sha256": "a55ba1c0c3a1ab707df77b9d9d9d8f94c64a1e7d207484a22c0b0077e11f782d",
+    "bytes": 162
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/DarkForestLocation.unity",
+    "originalPath": "Assets/Scenes/DarkForestLocation.unity",
+    "modifiedLocal": "2024-02-28T20:48:44.593609",
+    "sha256": "7814d8bc2945b7b7c81b4299759b18def1f5bb53ac8750b972aa0c6ed3eb7582",
+    "bytes": 1204355
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/DarkForestLocation.unity.meta",
+    "originalPath": "Assets/Scenes/DarkForestLocation.unity.meta",
+    "modifiedLocal": "2024-01-24T20:18:25.598862",
+    "sha256": "6f8bb77d8badb83e907712874ffc4e7157e57cc038e95233f7a710fe404ce8d1",
+    "bytes": 155
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/Game.unity",
+    "originalPath": "Assets/Scenes/Game.unity",
+    "modifiedLocal": "2022-07-01T21:41:19",
+    "sha256": "8933f5f2d7daee8d981f06e158fea1331f73363d07845d56ec382425995bdf15",
+    "bytes": 207157
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/Game.unity.meta",
+    "originalPath": "Assets/Scenes/Game.unity.meta",
+    "modifiedLocal": "2022-07-01T21:41:19",
+    "sha256": "b7fc1f5a69b4b53ede31bf30f91143844c36718cc366c3a8d5139beffe0220a1",
+    "bytes": 162
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/Menu.unity",
+    "originalPath": "Assets/Scenes/Menu.unity",
+    "modifiedLocal": "2024-02-28T20:06:46.722911",
+    "sha256": "83e9dd8a8c2eda622e21d03dcbbdea980a59241766274df3969aa76bb12f7e78",
+    "bytes": 34552
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/Menu.unity.meta",
+    "originalPath": "Assets/Scenes/Menu.unity.meta",
+    "modifiedLocal": "2024-02-28T19:28:21.869357",
+    "sha256": "6c6a1e01af2fa91c9343c1958f8375e775ab861ccefb3c967efd4a16b60c36e5",
+    "bytes": 155
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/SampleScene.unity",
+    "originalPath": "Assets/Scenes/SampleScene.unity",
+    "modifiedLocal": "2024-02-04T15:19:45.536235",
+    "sha256": "6b3e9bbeef740bd0b0ff403f8a2467aa5818de6c4aab69c9b76b8ac67770f22d",
+    "bytes": 151895
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/SampleScene.unity.meta",
+    "originalPath": "Assets/Scenes/SampleScene.unity.meta",
+    "modifiedLocal": "2019-05-31T11:52:50",
+    "sha256": "81633fd36cc6a7d1a90538f3564c2dca099a5801562305f42674fcb38e8248dd",
+    "bytes": 162
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scenes/SampleSceneSettings.lighting.meta",
+    "originalPath": "Assets/Scenes/SampleSceneSettings.lighting.meta",
+    "modifiedLocal": "2024-01-24T20:44:23.311150",
+    "sha256": "36136a072e69a5d2ae290b974a1fdc77684022c30f22551eb55bb8f7ecf4c063",
+    "bytes": 200
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/CameraMove2.cs",
+    "originalPath": "Assets/Scripts/CameraMove2.cs",
+    "modifiedLocal": "2024-02-28T18:13:50.821831",
+    "sha256": "2c23e3d20bf1c115a76dd205e7109958903e2a9347dce3241f25bd7107b25856",
+    "bytes": 510
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/CameraMove2.cs.meta",
+    "originalPath": "Assets/Scripts/CameraMove2.cs.meta",
+    "modifiedLocal": "2024-02-21T20:43:42.809584",
+    "sha256": "1760e57705a9cdaaa9821dc252d5003e330f70bb98e9f35ef166d0b524c8a13b",
+    "bytes": 243
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/Enemy1.cs",
+    "originalPath": "Assets/Scripts/Enemy1.cs",
+    "modifiedLocal": "2024-02-28T19:16:28.603345",
+    "sha256": "2c42a7b8cf5895563d5c4a83db834cbad992a2bccb73bd967a8c4138eb139a7f",
+    "bytes": 1896
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/Enemy1.cs.meta",
+    "originalPath": "Assets/Scripts/Enemy1.cs.meta",
+    "modifiedLocal": "2024-02-18T15:42:47.195159",
+    "sha256": "cab2f554185bb6c0884cf85e5ab1528fed0eddb5f54c777ec313c774b65b6e97",
+    "bytes": 243
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/EnemySword.cs",
+    "originalPath": "Assets/Scripts/EnemySword.cs",
+    "modifiedLocal": "2024-02-21T21:28:04.137430",
+    "sha256": "4751ffd7977e0ac2183b8f5993fac64965ccb809ce0744a00e1857de40ce7790",
+    "bytes": 600
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/EnemySword.cs.meta",
+    "originalPath": "Assets/Scripts/EnemySword.cs.meta",
+    "modifiedLocal": "2024-02-21T17:09:53.921693",
+    "sha256": "e2a05355ece38e0c9520f2b35a1941b216a96af5feb084aab7561e39438c6cb7",
+    "bytes": 243
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/Menu.cs",
+    "originalPath": "Assets/Scripts/Menu.cs",
+    "modifiedLocal": "2024-02-28T20:29:36.725159",
+    "sha256": "2535b062bcf1910eb7d7b2bd54af7499785f388ae6bff8b43a758fdd0e5c4c78",
+    "bytes": 626
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/Menu.cs.meta",
+    "originalPath": "Assets/Scripts/Menu.cs.meta",
+    "modifiedLocal": "2024-02-28T19:57:01.927590",
+    "sha256": "91e201f22dde9564cd6a66fe6062993670e6a9bdb47c54a8ac9bc68b6aaa9a0f",
+    "bytes": 243
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/Moveset.cs",
+    "originalPath": "Assets/Scripts/Moveset.cs",
+    "modifiedLocal": "2024-02-12T16:29:15.771417",
+    "sha256": "b9f303fee235d8e888f165128a8e321fa108f5cac0e01da4077002178e54d408",
+    "bytes": 309
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/Moveset.cs.meta",
+    "originalPath": "Assets/Scripts/Moveset.cs.meta",
+    "modifiedLocal": "2024-02-12T16:29:15.810678",
+    "sha256": "19ac2745f9aa04302ed94bf4ad51d2b148026dbdba6979ba417036c37ce50a72",
+    "bytes": 243
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/Music.cs",
+    "originalPath": "Assets/Scripts/Music.cs",
+    "modifiedLocal": "2024-02-28T20:43:47.637851",
+    "sha256": "5d4b7170156d509e1241ef59b74d3db5e0423f54cb36976ee01a7f3c88bc5378",
+    "bytes": 501
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/Music.cs.meta",
+    "originalPath": "Assets/Scripts/Music.cs.meta",
+    "modifiedLocal": "2024-02-21T14:59:54.708859",
+    "sha256": "9d357c7c118f642fe4717cd1947666d95f26894fdf8826179ed8ea0b34b17e7b",
+    "bytes": 243
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/PlayerMove1.cs",
+    "originalPath": "Assets/Scripts/PlayerMove1.cs",
+    "modifiedLocal": "2024-02-28T20:43:41.755275",
+    "sha256": "80399b4d3eda82ab18032a4d3a5ec3dc46fdf40615517a7ad43cf11a38f4f235",
+    "bytes": 5657
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/PlayerMove1.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerMove1.cs.meta",
+    "modifiedLocal": "2024-01-31T20:41:21.803656",
+    "sha256": "40660d60615b825d3e9401f1a71549d7f2a5a90557bdfefcdba905fe430ce545",
+    "bytes": 243
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/PlayerSword.cs",
+    "originalPath": "Assets/Scripts/PlayerSword.cs",
+    "modifiedLocal": "2024-02-28T20:13:10.278738",
+    "sha256": "26d5ba20d115fa7ed5423827174244f6256663303757e17291ec1cfba87df3c2",
+    "bytes": 533
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Assets/Scripts/PlayerSword.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerSword.cs.meta",
+    "modifiedLocal": "2024-02-21T17:10:06.438192",
+    "sha256": "0d83979accf1b2689519293cef6f2cf35cbc94f3006eb63caca34e4278ca4e29",
+    "bytes": 243
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Packages/manifest.json",
+    "originalPath": "Packages/manifest.json",
+    "modifiedLocal": "2024-01-24T20:19:00.674206",
+    "sha256": "fea3bad3700504a1e5668aa3622e519cb7df79a9d54f4010e0fa85fb9bbd7333",
+    "bytes": 2203
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/Packages/packages-lock.json",
+    "originalPath": "Packages/packages-lock.json",
+    "modifiedLocal": "2024-01-24T20:19:04.617241",
+    "sha256": "eb8ba32baa8f273718b49e0f3731059d6c8517a2cdc84d0ff3bc55fac31e090f",
+    "bytes": 13638
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/ProjectSettings/EditorBuildSettings.asset",
+    "originalPath": "ProjectSettings/EditorBuildSettings.asset",
+    "modifiedLocal": "2024-02-28T20:39:38.115190",
+    "sha256": "f6856d067a822297b15bac39075ddda505f2c129979bdb9e791ad00a544efca8",
+    "bytes": 457
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/ProjectSettings/InputManager.asset",
+    "originalPath": "ProjectSettings/InputManager.asset",
+    "modifiedLocal": "2022-05-06T06:48:02",
+    "sha256": "7a1bb836a1008d26d0860d143e9d9df7ca41731d30a72901b518063819c62df2",
+    "bytes": 9731
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/ProjectSettings/ProjectVersion.txt",
+    "originalPath": "ProjectSettings/ProjectVersion.txt",
+    "modifiedLocal": "2024-01-21T18:30:10.500202",
+    "sha256": "5cdc84492fbac63c05160560ca05f2b6a79c74a6444e69b85935d65746a369bf",
+    "bytes": 85
+  },
+  {
+    "project": "2024-cursed-prince",
+    "path": "projects/2024-cursed-prince/source/ProjectSettings/TagManager.asset",
+    "originalPath": "ProjectSettings/TagManager.asset",
+    "modifiedLocal": "2024-02-28T20:20:52.802522",
+    "sha256": "a46a4ad42c9bdf0043482a9b3e70391ff4c14b98998d62f013665e3d116ed6ff",
+    "bytes": 415
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/My_Scenes/Level_N1.unity",
+    "originalPath": "Assets/My_Scenes/Level_N1.unity",
+    "modifiedLocal": "2025-06-20T18:53:01.959418",
+    "sha256": "1566ddb8f694a9150f113dff722ab639335948a501bc3c0ed8674a44e0865ee6",
+    "bytes": 200111
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/My_Scenes/Level_N1.unity.meta",
+    "originalPath": "Assets/My_Scenes/Level_N1.unity.meta",
+    "modifiedLocal": "2024-07-30T00:22:12.815290",
+    "sha256": "a4d0e25f13141955eb094697d00da6128d33a198f0474b0c60cf117395a96c95",
+    "bytes": 155
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/My_Scenes/Level_N2.unity",
+    "originalPath": "Assets/My_Scenes/Level_N2.unity",
+    "modifiedLocal": "2025-06-20T18:48:09.315694",
+    "sha256": "2cdb5d11d64f333c356275f1c12e914592a53b8e9f5d94b5a05360be38aa8035",
+    "bytes": 195863
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/My_Scenes/Level_N2.unity.meta",
+    "originalPath": "Assets/My_Scenes/Level_N2.unity.meta",
+    "modifiedLocal": "2025-06-20T14:05:43.233507",
+    "sha256": "c73f7fd9857a93a3f8e6f01beeb96656bd5e68b127a4a53efb6c09eecf4e1f92",
+    "bytes": 155
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/My_Scenes/MainMenu.unity",
+    "originalPath": "Assets/My_Scenes/MainMenu.unity",
+    "modifiedLocal": "2025-06-25T00:10:37.829530",
+    "sha256": "ad9a0dac05ba23d85139d36ac27f6cc5dfa800d07d70ee09a0fc735891962b6e",
+    "bytes": 743415
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/My_Scenes/MainMenu.unity.meta",
+    "originalPath": "Assets/My_Scenes/MainMenu.unity.meta",
+    "modifiedLocal": "2024-07-27T12:04:29.161632",
+    "sha256": "4612d6d616b0bb37783a3f9b423360fc18e1e8c74b8657f30008253e4ef75573",
+    "bytes": 155
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/AdsInitializer.cs",
+    "originalPath": "Assets/Scripts_/AdsInitializer.cs",
+    "modifiedLocal": "2025-06-24T19:05:14.154409",
+    "sha256": "60ce4c1603947f2f04eff281699c215bd395a5ba992978444e68035bc4c8bc8f",
+    "bytes": 1050
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/AdsInitializer.cs.meta",
+    "originalPath": "Assets/Scripts_/AdsInitializer.cs.meta",
+    "modifiedLocal": "2025-06-20T18:58:08.047780",
+    "sha256": "cd7f01dac19f029118bf9f1f82a868e2dea81b7c3cec18386b5ee8bf46f70de3",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Anti_Abyss.cs",
+    "originalPath": "Assets/Scripts_/Anti_Abyss.cs",
+    "modifiedLocal": "2024-06-19T16:19:17.065758",
+    "sha256": "1ea147d151aff3aff768930117ddfbad49155bfacbb7b518a1de0697ffcf03f5",
+    "bytes": 553
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Anti_Abyss.cs.meta",
+    "originalPath": "Assets/Scripts_/Anti_Abyss.cs.meta",
+    "modifiedLocal": "2024-06-19T15:35:21.888194",
+    "sha256": "6bd5f192fb0987c7ef7a13148f64ef0b9d35717d9db78da2b0b228eceaf472a9",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Audio_Controller.cs",
+    "originalPath": "Assets/Scripts_/Audio_Controller.cs",
+    "modifiedLocal": "2024-06-21T15:56:38.923948",
+    "sha256": "dceb1446e8c6aa54d450ce693c0a2e086fffdc91d810dbd5c10a4662175174fc",
+    "bytes": 318
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Audio_Controller.cs.meta",
+    "originalPath": "Assets/Scripts_/Audio_Controller.cs.meta",
+    "modifiedLocal": "2024-06-21T15:56:38.968716",
+    "sha256": "c1d28767a7639b894cddb90516004cb3aeb4f89e6b10ad1ff5488aacda610a2e",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Bread_Script.cs",
+    "originalPath": "Assets/Scripts_/Bread_Script.cs",
+    "modifiedLocal": "2024-08-26T22:51:18.261194",
+    "sha256": "fd6b7ee90bc98fad52bae068c08c245e05246fbc2bb7cf7befff93137bd1ee75",
+    "bytes": 1033
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Bread_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Bread_Script.cs.meta",
+    "modifiedLocal": "2024-08-26T21:12:26.191346",
+    "sha256": "5b9600cfe388e8ce9b6b62f8e10fb8bb18a52ef1b7a58cb953e166acc82f7fed",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Breaking_Object.cs",
+    "originalPath": "Assets/Scripts_/Breaking_Object.cs",
+    "modifiedLocal": "2024-08-26T21:37:39.425092",
+    "sha256": "2f33fdb10e075357cac03b69d7a834a74e8416234b68d74cc5e9aaa8d2c4b9f3",
+    "bytes": 747
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Breaking_Object.cs.meta",
+    "originalPath": "Assets/Scripts_/Breaking_Object.cs.meta",
+    "modifiedLocal": "2024-07-13T12:33:08.115845",
+    "sha256": "91b84203f8b9c0e5c1b0a7fc0eb025d971fac2508d63748b61e9f3ae6ccaed02",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Camera_Move.cs",
+    "originalPath": "Assets/Scripts_/Camera_Move.cs",
+    "modifiedLocal": "2024-06-19T15:48:38.183704",
+    "sha256": "53250087a873d7ffde3a9195e57086b20344148bef524740de30df66ac4b99e1",
+    "bytes": 550
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Camera_Move.cs.meta",
+    "originalPath": "Assets/Scripts_/Camera_Move.cs.meta",
+    "modifiedLocal": "2024-06-19T15:35:03.205540",
+    "sha256": "f05569c7d46e3af14830e84269641e0e394300d665b09102c990efbd1a74696d",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Fall_Script.cs",
+    "originalPath": "Assets/Scripts_/Fall_Script.cs",
+    "modifiedLocal": "2025-06-20T16:44:32.859730",
+    "sha256": "aa146b9c27ef333821a5fb85cfe41a27452127d084bc0e9b6d8a7a7de6783b75",
+    "bytes": 1105
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Fall_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Fall_Script.cs.meta",
+    "modifiedLocal": "2024-07-10T15:36:34.277698",
+    "sha256": "7ee17fb8b2fc439efdf2ff23c516dd570e273dcf67147e56119759df1164fb35",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Fall_Zone_Move.cs",
+    "originalPath": "Assets/Scripts_/Fall_Zone_Move.cs",
+    "modifiedLocal": "2024-08-26T22:26:30.391898",
+    "sha256": "cb977e9a2891fae13d13a4acbf7bfa1fa58d5020ec40d5adb52e73cf94b20ada",
+    "bytes": 406
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Fall_Zone_Move.cs.meta",
+    "originalPath": "Assets/Scripts_/Fall_Zone_Move.cs.meta",
+    "modifiedLocal": "2024-08-26T22:14:17.867576",
+    "sha256": "9c7bc718259b732846a71a6f43409507a268940d551dbadefe97962d9de0e952",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Game_Menu_Script.cs",
+    "originalPath": "Assets/Scripts_/Game_Menu_Script.cs",
+    "modifiedLocal": "2025-06-20T16:53:12.489891",
+    "sha256": "e908e3a3ea74e879e6a227cd6b5e8babe8ae896febf9783cca9cec285e120c0e",
+    "bytes": 7808
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Game_Menu_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Game_Menu_Script.cs.meta",
+    "modifiedLocal": "2024-07-31T12:14:28.716431",
+    "sha256": "16c9c27484f8d58fe134a542445c584a5f45f74acb721ea9254e9aa07148ff6b",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Gems_Text_.cs",
+    "originalPath": "Assets/Scripts_/Gems_Text_.cs",
+    "modifiedLocal": "2024-08-04T15:03:48.688492",
+    "sha256": "47851b56356ed4a6c48b5e1a73a7a741dfb82857214597550ae1b8506c0a74f9",
+    "bytes": 422
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Gems_Text_.cs.meta",
+    "originalPath": "Assets/Scripts_/Gems_Text_.cs.meta",
+    "modifiedLocal": "2024-08-04T14:01:36.225233",
+    "sha256": "c3ff67d976646358d7b4a3b115b90acdccc6259137c5e6582dedf60de0d398a0",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Gem_Script_.cs",
+    "originalPath": "Assets/Scripts_/Gem_Script_.cs",
+    "modifiedLocal": "2024-08-04T15:06:04.154991",
+    "sha256": "6c76c45423db362fb1bacecaa3a8da5edfe3d913952826f79e73f8c4ebfbd090",
+    "bytes": 583
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Gem_Script_.cs.meta",
+    "originalPath": "Assets/Scripts_/Gem_Script_.cs.meta",
+    "modifiedLocal": "2024-08-04T14:33:42.933388",
+    "sha256": "2081415c2b996452d900bf0d5fdba31ffb18b94e8712336d86eaf28b1d39b573",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Grass1_Script.cs",
+    "originalPath": "Assets/Scripts_/Grass1_Script.cs",
+    "modifiedLocal": "2024-08-26T22:39:12.313092",
+    "sha256": "147b12396a8e14f45fc9100ca1ca9816d7e3de4d80d14c0957695f19e66ad129",
+    "bytes": 1000
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Grass1_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Grass1_Script.cs.meta",
+    "modifiedLocal": "2024-08-26T21:13:38.763491",
+    "sha256": "222fd64f8890d83c2187e7771e18051c64ec1d4ed424634d729147b155c23517",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Grass2_Script.cs",
+    "originalPath": "Assets/Scripts_/Grass2_Script.cs",
+    "modifiedLocal": "2024-08-27T21:57:05.689377",
+    "sha256": "61b5cbd918eb4b3f4dbe73e8fc081b71f35e69eed909c24635dd6ab65a3ffb03",
+    "bytes": 854
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Grass2_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Grass2_Script.cs.meta",
+    "modifiedLocal": "2024-08-26T21:14:23.315299",
+    "sha256": "25e1d079f7c01124e0c28727983bd53ebda3029f2a1585ea66a8e428881c44ed",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Grass3_Script.cs",
+    "originalPath": "Assets/Scripts_/Grass3_Script.cs",
+    "modifiedLocal": "2024-08-26T22:40:08.583863",
+    "sha256": "85460eb904d517b472857c3c824502e0e63b5108b812970e6818ac81bccb0700",
+    "bytes": 881
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Grass3_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Grass3_Script.cs.meta",
+    "modifiedLocal": "2024-08-26T21:14:22.447118",
+    "sha256": "a31106edbd87845f5f7947c18226857c22209cfc9fc93132c439a940af839107",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/LockerMenuScript.cs",
+    "originalPath": "Assets/Scripts_/LockerMenuScript.cs",
+    "modifiedLocal": "2024-09-01T21:24:20.964176",
+    "sha256": "1830ce9abf668517edd81e774e767e2c2b2a8800cd48d663831f67f89061bd7f",
+    "bytes": 19071
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/LockerMenuScript.cs.meta",
+    "originalPath": "Assets/Scripts_/LockerMenuScript.cs.meta",
+    "modifiedLocal": "2024-08-28T22:39:17.155291",
+    "sha256": "bc61e753ef6116b2a3936545f2ce51199cc73834cb7dbd3f961abd28336ebb05",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Menu_Script.cs",
+    "originalPath": "Assets/Scripts_/Menu_Script.cs",
+    "modifiedLocal": "2025-06-20T16:53:38.226031",
+    "sha256": "c30a197792eaf6b02a30ef20f91e1ac757855746db31daf36d95f9864898f972",
+    "bytes": 3814
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Menu_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Menu_Script.cs.meta",
+    "modifiedLocal": "2024-06-21T15:57:01.288762",
+    "sha256": "59b170807be44402bf31a51f4c531132a271e03760f360611a47316faae5cce9",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Moving_Object.cs",
+    "originalPath": "Assets/Scripts_/Moving_Object.cs",
+    "modifiedLocal": "2024-07-13T20:37:03.101261",
+    "sha256": "b3a4fac64a0ad07cee36e468d8e20f819ba9262be86e3c84d7a50732bb2493d7",
+    "bytes": 1142
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Moving_Object.cs.meta",
+    "originalPath": "Assets/Scripts_/Moving_Object.cs.meta",
+    "modifiedLocal": "2024-07-13T12:32:33.217537",
+    "sha256": "8ccc5ea2c26b4c43acf25c05e949bb5b6fcc80ec2e95f8d6dde36aae207de85b",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Player_Controller1.cs",
+    "originalPath": "Assets/Scripts_/Player_Controller1.cs",
+    "modifiedLocal": "2024-08-26T22:32:40.628465",
+    "sha256": "227868248c90a3e3a7832950430fe57a56b3bed10d272db24b0335553fc759c1",
+    "bytes": 2761
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Player_Controller1.cs.meta",
+    "originalPath": "Assets/Scripts_/Player_Controller1.cs.meta",
+    "modifiedLocal": "2024-06-17T17:26:52.730663",
+    "sha256": "1ab2885cfc10411c5b0aa2399996aef9e1ee8dcb48867003815ee5581677f904",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Potion_Script.cs",
+    "originalPath": "Assets/Scripts_/Potion_Script.cs",
+    "modifiedLocal": "2024-08-27T21:57:43.163767",
+    "sha256": "4c93ae23c43c595cfca80d91a69a0477c46567704d1a0ea5fcdee3f68b83add1",
+    "bytes": 1201
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Potion_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Potion_Script.cs.meta",
+    "modifiedLocal": "2024-08-26T21:16:13.791247",
+    "sha256": "7e715f8356437428eca0fb8d69a8c61762a050f6ceb93df1f9974f4b7df646ee",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Protector_Script.cs",
+    "originalPath": "Assets/Scripts_/Protector_Script.cs",
+    "modifiedLocal": "2025-06-20T17:27:19.082047",
+    "sha256": "df582e5f3b8e76c07472a2183e8809fc09ac465f2b6d5ca01962ca0f949c5333",
+    "bytes": 1408
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Protector_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Protector_Script.cs.meta",
+    "modifiedLocal": "2024-08-27T22:07:08.938200",
+    "sha256": "676b1a480483dfa97aff4988672ca5f6a6611eaab975f706bd81cdb5e0a00684",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/RewardedAdsButton.cs",
+    "originalPath": "Assets/Scripts_/RewardedAdsButton.cs",
+    "modifiedLocal": "2025-06-24T20:43:03.500934",
+    "sha256": "d9931277fa3574bfd6ac7b1a3ba1aec03980923b9f915e5aef3a13ce925b8a5d",
+    "bytes": 3125
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/RewardedAdsButton.cs.meta",
+    "originalPath": "Assets/Scripts_/RewardedAdsButton.cs.meta",
+    "modifiedLocal": "2025-06-20T19:11:31.770737",
+    "sha256": "74ce0378698d28dd11cf91465a0b427685ce3bf27b77a4d67418d2210dfdb886",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/StoreMenu_Script.cs",
+    "originalPath": "Assets/Scripts_/StoreMenu_Script.cs",
+    "modifiedLocal": "2025-06-20T16:27:36.268718",
+    "sha256": "b38748f94176e7c2a3721ae519192543f1d6f34ec038909033b3dc2691c7325f",
+    "bytes": 6003
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/StoreMenu_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/StoreMenu_Script.cs.meta",
+    "modifiedLocal": "2024-08-31T23:15:18.989897",
+    "sha256": "b66d3f561f83280e8bc2657c2c9b00aefdd802f4cc446cc98db6c9167a7b812e",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Sword_Script.cs",
+    "originalPath": "Assets/Scripts_/Sword_Script.cs",
+    "modifiedLocal": "2025-06-20T16:39:41.757527",
+    "sha256": "2d564b4c86f5ef2464c4385fd8242a6abb95c1fae8b817d5d74b219da000ab28",
+    "bytes": 1191
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Sword_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Sword_Script.cs.meta",
+    "modifiedLocal": "2024-08-26T21:15:36.568321",
+    "sha256": "5ddf606f9e477cea1e519d923891b5a8ad684f912be6173083d26fa37bea31a2",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Variables_.cs",
+    "originalPath": "Assets/Scripts_/Variables_.cs",
+    "modifiedLocal": "2025-06-20T16:24:17.654588",
+    "sha256": "bdcff0df65a2efc028cdfe105428b15abd0968844362fdbc741cd40bd56da160",
+    "bytes": 5828
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Variables_.cs.meta",
+    "originalPath": "Assets/Scripts_/Variables_.cs.meta",
+    "modifiedLocal": "2024-08-04T13:43:06.364346",
+    "sha256": "98e7614b7546989ad56eb2102f74da0d13770686262d29c263ba71a0f31c45c6",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Win_Script.cs",
+    "originalPath": "Assets/Scripts_/Win_Script.cs",
+    "modifiedLocal": "2024-08-27T21:54:17.791192",
+    "sha256": "953438177b16b7f88f00f4c8ef3a70ccfd276277f3a2b3c84f36f899fdf4564f",
+    "bytes": 1000
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Assets/Scripts_/Win_Script.cs.meta",
+    "originalPath": "Assets/Scripts_/Win_Script.cs.meta",
+    "modifiedLocal": "2024-07-10T15:35:51.483563",
+    "sha256": "304aaba299cbb1a4d995d58330418536285a2575b982ee6637921db66e05478a",
+    "bytes": 243
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Packages/manifest.json",
+    "originalPath": "Packages/manifest.json",
+    "modifiedLocal": "2025-06-24T18:17:19.555086",
+    "sha256": "76671014d46dfc448f23f504d3ffac938e87cb8a94e43d57ddd774e05a52a0b3",
+    "bytes": 2234
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/Packages/packages-lock.json",
+    "originalPath": "Packages/packages-lock.json",
+    "modifiedLocal": "2025-06-24T18:17:19.559872",
+    "sha256": "9fd8bc8b6fdb2b5218bd16eb567f56abdf6cdedd4ee5982d3475f77e0c63f823",
+    "bytes": 13850
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/ProjectSettings/EditorBuildSettings.asset",
+    "originalPath": "ProjectSettings/EditorBuildSettings.asset",
+    "modifiedLocal": "2025-06-20T14:19:25.729232",
+    "sha256": "82ece5c843dce6c710869e5e81c3d6d8cd55f93614b1148fe9aba97c25c49c34",
+    "bytes": 457
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/ProjectSettings/InputManager.asset",
+    "originalPath": "ProjectSettings/InputManager.asset",
+    "modifiedLocal": "2022-05-06T06:48:02",
+    "sha256": "7a1bb836a1008d26d0860d143e9d9df7ca41731d30a72901b518063819c62df2",
+    "bytes": 9731
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/ProjectSettings/ProjectVersion.txt",
+    "originalPath": "ProjectSettings/ProjectVersion.txt",
+    "modifiedLocal": "2024-06-13T12:50:57.952948",
+    "sha256": "5cdc84492fbac63c05160560ca05f2b6a79c74a6444e69b85935d65746a369bf",
+    "bytes": 85
+  },
+  {
+    "project": "2024-2025-rise",
+    "path": "projects/2024-2025-rise/source/ProjectSettings/TagManager.asset",
+    "originalPath": "ProjectSettings/TagManager.asset",
+    "modifiedLocal": "2025-06-20T18:48:09.189763",
+    "sha256": "b0337d0bf46cb1ea0777f66cba452b887374f6dc7e8caacfd4127fcdb6577b64",
+    "bytes": 405
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scenes/Level1.unity",
+    "originalPath": "Assets/Scenes/Level1.unity",
+    "modifiedLocal": "2025-07-20T22:32:23.650528",
+    "sha256": "afa45cfdd76944d4eab1460d661c3f82789e6793bc534c367927f72ebd7e22f8",
+    "bytes": 1165165
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scenes/Level1.unity.meta",
+    "originalPath": "Assets/Scenes/Level1.unity.meta",
+    "modifiedLocal": "2025-07-20T16:47:55.765911",
+    "sha256": "5e4d5b07b831d15180b24068487c7d4d14a789dd1feeca9002d6c864d35a5108",
+    "bytes": 155
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scenes/SampleScene.meta",
+    "originalPath": "Assets/Scenes/SampleScene.meta",
+    "modifiedLocal": "2025-07-19T11:20:54.905069",
+    "sha256": "12034fcea0c210b87d8874524e6eccb67e96a3389b16843f0e3b27181974d84d",
+    "bytes": 172
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scenes/SampleScene.unity",
+    "originalPath": "Assets/Scenes/SampleScene.unity",
+    "modifiedLocal": "2025-07-20T16:48:10.765637",
+    "sha256": "4bb1639703bd46146e468187af33d9b10dd09aa06cfc92397a79c9a76dbcb58c",
+    "bytes": 67991
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scenes/SampleScene.unity.meta",
+    "originalPath": "Assets/Scenes/SampleScene.unity.meta",
+    "modifiedLocal": "2022-05-26T23:47:49",
+    "sha256": "aceab14f038dbd3a1778159772cd9e89d7d8188f9158f06c204a8912438d8c96",
+    "bytes": 155
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/CameraMove.cs",
+    "originalPath": "Assets/Scripts/CameraMove.cs",
+    "modifiedLocal": "2025-07-20T14:48:48.047689",
+    "sha256": "4ab1757f474f4115dd1583e3f3e947e89498f7d016603dc79a28f4343a4700fd",
+    "bytes": 2426
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/CameraMove.cs.meta",
+    "originalPath": "Assets/Scripts/CameraMove.cs.meta",
+    "modifiedLocal": "2025-07-19T00:22:05.631377",
+    "sha256": "58d959ab74bc548d40b0f6c46488f2b80ea7277499ed6d6a17aa5de8c914b65a",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/DistanceCheck.cs",
+    "originalPath": "Assets/Scripts/DistanceCheck.cs",
+    "modifiedLocal": "2025-07-19T11:51:45.430137",
+    "sha256": "e7d367af9e399483b9ecb358059508caad374a5262990022fa6115b10024e48a",
+    "bytes": 273
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/DistanceCheck.cs.meta",
+    "originalPath": "Assets/Scripts/DistanceCheck.cs.meta",
+    "modifiedLocal": "2025-07-19T11:51:27.383236",
+    "sha256": "80cb88e16f0b5696171b932f81f0663d383f20c6fab932e002d22d7add312e9d",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/EnemyOrg.cs",
+    "originalPath": "Assets/Scripts/EnemyOrg.cs",
+    "modifiedLocal": "2025-07-20T14:30:18.205737",
+    "sha256": "d1daec2ea0fa7124be850e26594104494ff694a04f06635cace1e623ee94d306",
+    "bytes": 1187
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/EnemyOrg.cs.meta",
+    "originalPath": "Assets/Scripts/EnemyOrg.cs.meta",
+    "modifiedLocal": "2025-07-19T15:59:05.239340",
+    "sha256": "52e65a89113597cf159ba0665581d8713aff61761b45d2d782866656b7479f98",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/EnemyOrgAI.cs",
+    "originalPath": "Assets/Scripts/EnemyOrgAI.cs",
+    "modifiedLocal": "2025-07-20T16:46:48.796364",
+    "sha256": "2da6ea634cb7e560963969c2072bbd27af258564ce210fe33a47316b28d1f3dd",
+    "bytes": 4672
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/EnemyOrgAI.cs.meta",
+    "originalPath": "Assets/Scripts/EnemyOrgAI.cs.meta",
+    "modifiedLocal": "2025-07-19T15:58:22.116036",
+    "sha256": "a62c97d2b311d19e54cbe72f24948d734260a0005a313d23f2778bd15290924e",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/EnergySystem.cs",
+    "originalPath": "Assets/Scripts/EnergySystem.cs",
+    "modifiedLocal": "2025-07-20T14:40:20.426271",
+    "sha256": "3059bf7a2bf92d691417dcd5f57a0659a2ef2f63b4e616833c09ece4ef732afb",
+    "bytes": 2442
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/EnergySystem.cs.meta",
+    "originalPath": "Assets/Scripts/EnergySystem.cs.meta",
+    "modifiedLocal": "2025-07-18T23:21:09.732799",
+    "sha256": "6d4888feddd0a27b84051dfa68b4910adc5cc99c158fc53a1300e668dd74b5ee",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/LaserScript.cs",
+    "originalPath": "Assets/Scripts/LaserScript.cs",
+    "modifiedLocal": "2025-07-19T16:45:02.826591",
+    "sha256": "85930aa9b2084fa57051e192bcef53a57bf8758489f62c944687c331eaaab44a",
+    "bytes": 942
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/LaserScript.cs.meta",
+    "originalPath": "Assets/Scripts/LaserScript.cs.meta",
+    "modifiedLocal": "2025-07-19T14:01:29.455363",
+    "sha256": "a2407c79df5cd10d5f1183d8e24c50c4246e6ba84cb2182f326c5866def3fe1b",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PipeGlow.cs",
+    "originalPath": "Assets/Scripts/PipeGlow.cs",
+    "modifiedLocal": "2025-07-19T21:14:36.258937",
+    "sha256": "536ff640d44b0c5888a071f3b277b307d069369b131919dff0fe118a682fa9c7",
+    "bytes": 754
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PipeGlow.cs.meta",
+    "originalPath": "Assets/Scripts/PipeGlow.cs.meta",
+    "modifiedLocal": "2025-07-19T20:56:05.208293",
+    "sha256": "bf4d719bff211055b8866dbf679a032cb1d333846a12c156682ae8981557274d",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PipeTile.cs",
+    "originalPath": "Assets/Scripts/PipeTile.cs",
+    "modifiedLocal": "2025-07-20T16:30:28.249854",
+    "sha256": "dc31f2f138c28ff36237f5707748a9a77aa3254b5f8fd611e4600514ddfe13cc",
+    "bytes": 6650
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PipeTile.cs.meta",
+    "originalPath": "Assets/Scripts/PipeTile.cs.meta",
+    "modifiedLocal": "2025-07-19T21:21:09.727409",
+    "sha256": "53deb41d5ca3643e7115894862c700d8ebb5a32246733df454d4c9ebdbcd8530",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PlayerController.cs",
+    "originalPath": "Assets/Scripts/PlayerController.cs",
+    "modifiedLocal": "2025-07-20T14:48:53.680695",
+    "sha256": "db5ac4f74ace804b4d546f6fe57cdacbfbe917f3e8a1b031745e16a96ac1a4f9",
+    "bytes": 3952
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PlayerController.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerController.cs.meta",
+    "modifiedLocal": "2025-07-18T23:20:51.171067",
+    "sha256": "963c82ae97c4d3cb3e4f23b506f46aa3632ae3e2edca0eee5da7016c313eda20",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PuzzleController.cs",
+    "originalPath": "Assets/Scripts/PuzzleController.cs",
+    "modifiedLocal": "2025-07-20T16:42:04.201356",
+    "sha256": "33965f41a35bbe631c541dce56305b47b41be845b62f6f216d06807374581dbf",
+    "bytes": 9459
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PuzzleController.cs.meta",
+    "originalPath": "Assets/Scripts/PuzzleController.cs.meta",
+    "modifiedLocal": "2025-07-20T13:04:18.336111",
+    "sha256": "895443823ca2797eb35bea74cfdc05dda94c36fe0ff600efa428f6ff9e56e4a3",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PuzzleManager.cs",
+    "originalPath": "Assets/Scripts/PuzzleManager.cs",
+    "modifiedLocal": "2025-07-20T16:07:07.228125",
+    "sha256": "74232d96fe44b2b840ab898e0ef9c7368f0ec5ab5eed7aa16e618d34903f2122",
+    "bytes": 9363
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/PuzzleManager.cs.meta",
+    "originalPath": "Assets/Scripts/PuzzleManager.cs.meta",
+    "modifiedLocal": "2025-07-19T22:51:32.339995",
+    "sha256": "c3942b10556036469827235911e8e9b13bea3e35b5d9ea58a3556d35375380f3",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/Solution.cs",
+    "originalPath": "Assets/Scripts/Solution.cs",
+    "modifiedLocal": "2025-07-20T21:13:31.344659",
+    "sha256": "3cee9e3cd16d8efeccfabb962eb4921022779043ff25b4a782ea4ed0c9de01b5",
+    "bytes": 918
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scripts/Solution.cs.meta",
+    "originalPath": "Assets/Scripts/Solution.cs.meta",
+    "modifiedLocal": "2025-07-20T20:04:28.266726",
+    "sha256": "03657953ea5b7b37dcebfad6913e19f1082383bcddd25378eb1d7e2d35e5238b",
+    "bytes": 243
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Assets/Scenes/SampleScene/PostProcessVolume Profile.asset.meta",
+    "originalPath": "Assets/Scenes/SampleScene/PostProcessVolume Profile.asset.meta",
+    "modifiedLocal": "2025-07-19T11:20:56.050996",
+    "sha256": "167ebde752426fca5e0e7ebcfc0d07a40280238f9f1d39ae7ca39001bf42a920",
+    "bytes": 189
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Packages/manifest.json",
+    "originalPath": "Packages/manifest.json",
+    "modifiedLocal": "2025-07-19T10:35:11.219717",
+    "sha256": "743552c0387b1aaf6c7bf597ac63d06a917ad469feb889448a9f1c1f22e5eae2",
+    "bytes": 1941
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/Packages/packages-lock.json",
+    "originalPath": "Packages/packages-lock.json",
+    "modifiedLocal": "2025-07-19T10:35:11.231771",
+    "sha256": "8d9ebe66dd40ff5c2a8df61863512de79037e9d8565dad77b9e52194d983fe06",
+    "bytes": 13286
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/ProjectSettings/EditorBuildSettings.asset",
+    "originalPath": "ProjectSettings/EditorBuildSettings.asset",
+    "modifiedLocal": "2025-07-20T20:59:59.563970",
+    "sha256": "85a5c9b0af29c5ecf217ff35901a1376f8763626de149bb2105b929e56154140",
+    "bytes": 252
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/ProjectSettings/InputManager.asset",
+    "originalPath": "ProjectSettings/InputManager.asset",
+    "modifiedLocal": "2025-07-19T04:21:53.748520",
+    "sha256": "93134fc7e75bef25d7d517f84ab3913029e250d72d665b92b1346955818ec91c",
+    "bytes": 9754
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/ProjectSettings/ProjectVersion.txt",
+    "originalPath": "ProjectSettings/ProjectVersion.txt",
+    "modifiedLocal": "2025-07-18T21:03:14.609755",
+    "sha256": "5cdc84492fbac63c05160560ca05f2b6a79c74a6444e69b85935d65746a369bf",
+    "bytes": 85
+  },
+  {
+    "project": "2025-kenney-jam-power",
+    "path": "projects/2025-kenney-jam-power/source/ProjectSettings/TagManager.asset",
+    "originalPath": "ProjectSettings/TagManager.asset",
+    "modifiedLocal": "2025-07-20T16:47:54.707998",
+    "sha256": "bc5af641878c7730bad1515ac1e91694e954c17065cad7f2270bb3040a83ec42",
+    "bytes": 482
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Assets/Scenes/SampleScene.unity",
+    "originalPath": "Assets/Scenes/SampleScene.unity",
+    "modifiedLocal": "2025-08-20T21:10:56.825377",
+    "sha256": "8958d45e2d3e60fa72f558de8fe0d1f09c14d27729d5c2e082f25927fd2c413c",
+    "bytes": 27013
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Assets/Scenes/SampleScene.unity.meta",
+    "originalPath": "Assets/Scenes/SampleScene.unity.meta",
+    "modifiedLocal": "2022-05-26T23:47:49",
+    "sha256": "aceab14f038dbd3a1778159772cd9e89d7d8188f9158f06c204a8912438d8c96",
+    "bytes": 155
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Assets/Scripts/CameraMove.cs",
+    "originalPath": "Assets/Scripts/CameraMove.cs",
+    "modifiedLocal": "2025-08-20T19:40:50.877791",
+    "sha256": "f5d2d03edd4c9d0f075fac0eec34b9eef963fc9714665a3160fdf78decd87e84",
+    "bytes": 312
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Assets/Scripts/CameraMove.cs.meta",
+    "originalPath": "Assets/Scripts/CameraMove.cs.meta",
+    "modifiedLocal": "2025-08-20T19:40:50.918023",
+    "sha256": "40aea9124fb7bdd098f6b7dbb32b8cbc3c9dd8f60297130bdf9243d2c49169c9",
+    "bytes": 243
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Assets/Scripts/PlayerController.cs",
+    "originalPath": "Assets/Scripts/PlayerController.cs",
+    "modifiedLocal": "2025-08-20T20:40:33.948953",
+    "sha256": "9fecc01d02f6fb9077f148a5ce78fb6e6adbcf0433e38f1bb41925c54caaa8fd",
+    "bytes": 1535
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Assets/Scripts/PlayerController.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerController.cs.meta",
+    "modifiedLocal": "2025-08-20T18:45:02.575973",
+    "sha256": "598d7b3a2881f5e53ddb6630e925ba8c2facd31faba08ba56a5bd4d9cb759453",
+    "bytes": 243
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Assets/Scripts/PlayerRotate.cs",
+    "originalPath": "Assets/Scripts/PlayerRotate.cs",
+    "modifiedLocal": "2025-08-20T20:00:40.491587",
+    "sha256": "39b7bdf4d76b62a410aae4d8838143f8768580d7c272607a348470849b948ca2",
+    "bytes": 784
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Assets/Scripts/PlayerRotate.cs.meta",
+    "originalPath": "Assets/Scripts/PlayerRotate.cs.meta",
+    "modifiedLocal": "2025-08-20T19:59:08.655032",
+    "sha256": "1e3d355da396c25a9703b73fdf35a471e634edec8e11e5ec4b9f7ad24a653ccf",
+    "bytes": 243
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Packages/manifest.json",
+    "originalPath": "Packages/manifest.json",
+    "modifiedLocal": "2025-08-20T18:26:56.570327",
+    "sha256": "ff1f2d4e458c50522e7d67921ff2e5829381722fffc5afa5dea5b993564b7710",
+    "bytes": 1811
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/Packages/packages-lock.json",
+    "originalPath": "Packages/packages-lock.json",
+    "modifiedLocal": "2025-08-20T18:27:00.793604",
+    "sha256": "f1ef78f88bacb4836624919f4b6873fe4abafbf9717c3f5020bec53c322e0876",
+    "bytes": 11022
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/ProjectSettings/EditorBuildSettings.asset",
+    "originalPath": "ProjectSettings/EditorBuildSettings.asset",
+    "modifiedLocal": "2022-05-26T23:47:50",
+    "sha256": "1942c088ddfeeef348fdf12390e2a2d6da51056e197458d67969d44e7b2cbbd3",
+    "bytes": 160
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/ProjectSettings/InputManager.asset",
+    "originalPath": "ProjectSettings/InputManager.asset",
+    "modifiedLocal": "2022-05-26T23:47:50",
+    "sha256": "1fb1c30f8a1615cf9a4220be6d18a33eccd3a09cc4cd0a3c7cd0a38a7c083134",
+    "bytes": 5793
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/ProjectSettings/ProjectVersion.txt",
+    "originalPath": "ProjectSettings/ProjectVersion.txt",
+    "modifiedLocal": "2025-08-20T18:26:28.633467",
+    "sha256": "5cdc84492fbac63c05160560ca05f2b6a79c74a6444e69b85935d65746a369bf",
+    "bytes": 85
+  },
+  {
+    "project": "2025-directional-movement",
+    "path": "projects/2025-directional-movement/source/ProjectSettings/TagManager.asset",
+    "originalPath": "ProjectSettings/TagManager.asset",
+    "modifiedLocal": "2025-08-20T21:10:56.713256",
+    "sha256": "3b10e57ea250ba1c827eba28246781f3e2c0821fde466ad5d5afecdab3b3dba8",
+    "bytes": 416
+  }
+]

@@ -1,0 +1,29 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EnemySword : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+    void OnTriggerEnter2D(Collider2D tcsks)
+    {
+        if (tcsks.tag == "Player")
+        {
+            tcsks.GetComponent<PlayerMove1>().ChangeHealth(-20);
+        }
+        if (tcsks.tag == "BreakingStone")
+        {
+            Destroy(tcsks.gameObject);
+        }
+    }
+}

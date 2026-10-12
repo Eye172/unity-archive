@@ -1,0 +1,23 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Step : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    public void step()
+    {
+        GetComponent<AudioSource>().Play(); 
+        
+    }
+    void Update()
+    {
+    
+    }
+}
