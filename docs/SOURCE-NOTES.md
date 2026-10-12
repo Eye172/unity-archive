@@ -21,3 +21,7 @@ The public source is an inspection archive. It deliberately does not bundle unre
 Original source bytes are copied without reformatting, renaming classes, removing comments, changing encodings or altering old timestamps. The repository manifest records their SHA-256 values. Restoration tools and any compatibility patches belong to the 2026 restoration, separately from the historical source.
 
 No blanket open-source license is applied to third-party content. This repository's public availability is not a relicensing of imported asset packs.
+
+## License and permissions
+
+The author's original material is covered by the repository's [Viewing and Study License](../LICENSE). Personal viewing and study are permitted; other uses require prior written permission, subject to the platform rights and legal exceptions stated there. This is not an open-source release. Third-party material, including integration examples and content visible in recorded previews, is outside that grant and retains its existing terms.

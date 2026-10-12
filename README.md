@@ -40,3 +40,7 @@ Seven documented projects share one repository. The historical project folders r
 This is a **historical source archive**. Gameplay scripts, scene descriptions, input settings and package manifests are preserved. The complete local originals also contain third-party art packs, which are handled separately in [Source notes](docs/SOURCE-NOTES.md). A public checkout alone is not represented as a complete playable build.
 
 Dates describe surviving files and the author's account. The archive was assembled in **October 2026**; Git history is not backdated. See [verification status](docs/BUILD-STATUS.md) for what has actually been run and captured.
+
+## License
+
+**Viewing and personal study only.** Reuse, execution, modification and redistribution of the author's original material require prior written permission. This archive is not open source. See [LICENSE](LICENSE) for the scope, GitHub platform rights and other exceptions; third-party material retains its own terms. Permission requests: [shakh090909@gmail.com](mailto:shakh090909@gmail.com).
